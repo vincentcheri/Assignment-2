@@ -1,0 +1,11 @@
+.git
+.gitignore
+.DS_Store
+*.log
+logs/
+tmp/
+temp/
+README.md
+test.sh
+grade.sh
+compose.yaml
